@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 29425c02b2f737346962dd4828c53a30
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - titleScreen: {fileID: 2800000, guid: a6817b5f822264149ba0b16e7ddfbddd, type: 3}
+  - cutScene1: {fileID: 2800000, guid: be7876e4d7bf0524d94b2940ad29d75d, type: 3}
+  - cutScene2: {fileID: 2800000, guid: fbfcd2a43bddf34498b51eebcb2bf52b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
